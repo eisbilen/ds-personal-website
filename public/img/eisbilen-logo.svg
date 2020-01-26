@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 186.849 199.045">
+  <defs>
+    <style>
+      .a {
+        fill: #1abc9c;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <title>eisbilen-logo</title>
+  <rect class="a" x="4" y="4" width="103.297" height="55.045" rx="24.725" ry="24.725"/>
+  <rect class="a" x="4" y="140" width="103.297" height="55.045" rx="24.725" ry="24.725"/>
+  <rect class="a" x="4" y="72" width="103.297" height="55.045" rx="24.725" ry="24.725"/>
+  <rect class="a" x="98.815" y="106.733" width="123.045" height="55.045" rx="24.725" ry="24.725" transform="translate(289.581 -26.815) rotate(90)"/>
+  <rect class="a" x="131.284" y="6.264" width="58.108" height="55.045" rx="24.725" ry="24.725" transform="translate(189.113 -127.284) rotate(90)"/>
+</svg>

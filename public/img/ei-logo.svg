@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .a {
+        fill: #05a7af;
+      }
+    </style>
+  </defs>
+  <title>EI-LOGO</title>
+  <rect class="a" x="-71.364" y="71.364" width="200" height="57.271" transform="translate(128.636 71.364) rotate(90)"/>
+  <rect class="a" y="162.873" width="142.729" height="37.127" transform="translate(142.729 362.873) rotate(180)"/>
+  <rect class="a" y="75.753" width="133.227" height="38.23" transform="translate(133.227 189.737) rotate(180)"/>
+  <rect class="a" x="71.364" y="71.364" width="200" height="57.271" transform="translate(271.364 -71.364) rotate(90)"/>
+  <rect class="a" width="142.729" height="37.127" transform="translate(142.729 37.127) rotate(180)"/>
+</svg>
